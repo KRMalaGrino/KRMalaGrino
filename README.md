@@ -2,10 +2,10 @@
 
   Projects:
 
-  -Sprint 0 Project : Introduction
-  -Sprint 1 Project : Tripple Peaks Library
-  -Sprint 2 Project : Tripple Peaks Coffeehouse
-  -Sprint 3 - 4 Project : Spots
+  Sprint 0 Project : Introduction |
+  Sprint 1 Project : Tripple Peaks Library |
+  Sprint 2 Project : Tripple Peaks Coffeehouse |
+  Sprint 3 - 4 Project : Spots
 
   
 
