@@ -6,10 +6,4 @@ Since 2014 there's been over 200 songs, 15 EPs and 9 albums of original composit
 
 Skills:
 
--HTML
--CSS
--JavaScript
--VSCode
--Logic Pro X
--Melodyne
--Adobe Premiere Pro
+HTML | CSS | JavaScript | VSCode | Logic Pro X | Melodyne | Adobe Premiere Pro
