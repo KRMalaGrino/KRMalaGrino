@@ -6,8 +6,8 @@ When i was straight out of highschool I attended SAE Institute in NYC for 9 mont
 
  ## Projects:
 
- - Sprint 1 Project : Tripple Peaks Library | https://github.com/KRMalaGrino/Triple_Peaks_Library
- - Sprint 2 Project : Tripple Peaks Coffeehouse | [https://KRMalaGrino.github.io/se_project_coffeeshop/](https://github.com/KRMalaGrino/se_project_coffeeshop)
+ - Sprint 1 Project : Triple Peaks Library | https://github.com/KRMalaGrino/Triple_Peaks_Library
+ - Sprint 2 Project : Triple Peaks Coffeehouse | [https://KRMalaGrino.github.io/se_project_coffeeshop/](https://github.com/KRMalaGrino/se_project_coffeeshop)
  - Sprint 3 - 4 Project : Spots | https://github.com/KRMalaGrino/se_project_spots
 
  ## Skills:
