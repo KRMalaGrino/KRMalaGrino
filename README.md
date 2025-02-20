@@ -14,6 +14,8 @@
  - CSS
  - JavaScript
  - VSCode
+ - Terminal
+ - Github
  - Logic Pro X
  - Melodyne
  - Adobe Premiere Pro
