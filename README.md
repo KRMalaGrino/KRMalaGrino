@@ -8,7 +8,7 @@
  - Sprint 2 Project : Triple Peaks Coffeehouse | [https://KRMalaGrino.github.io/se_project_coffeeshop/](https://github.com/KRMalaGrino/se_project_coffeeshop)
  - Sprint 3 - 4 Project : Spots | https://github.com/KRMalaGrino/se_project_spots
 
-### Softwares Skilled In:
+### Skills:
 
  - HTML
  - CSS
