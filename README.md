@@ -2,7 +2,7 @@
 
  Hi, my name is Ryan . A passionate frontend developer from Trenton, New Jersey . Currently a full-time student at TripleTen studying software engineering (46% complete) . Looking to collaborate with other coders on developing all kinds of projects to grow my experience as a software engineer . If you have any ideas feel free to email me at ryanmalagrino9@gmail.com .
 
-### Coding Projects:
+### Coding Projects / Websites Created :
 
  - TripleTen Sprint 3 - 4 Project : Spots | https://github.com/KRMalaGrino/se_project_spots
  - TripleTen Sprint 2 Project : Triple Peaks Coffeehouse | [https://KRMalaGrino.github.io/se_project_coffeeshop/](https://github.com/KRMalaGrino/se_project_coffeeshop)
