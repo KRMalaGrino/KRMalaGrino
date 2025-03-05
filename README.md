@@ -24,7 +24,7 @@
 ### Background:
 (Audio Engineer | Video Director/Editor | Artist/Musician)
 
- When i was straight out of highschool I attended SAE Institute in NYC for 9 months where I would obtain my certificate of audio technology . Since graduating in 2014, there's been over 200 songs, 15 EPs and 9 albums of original compositions and lyrics released on all streaming platforms . I've traveled all over the country performing anywhere I could be heard . Recorded in over 30 different recording studio spaces . Shot & edited over 50 music videos & over 100 vlogs . Wrote, performed & engineered genres from hip hop, heavy metal, alternative rock, worship, opera & orchestral. Experimented in various other realms as well . I am versatile and have a hunger to create art and help others be successful as well .
+ When i was fresh out of highschool I attended SAE Institute in NYC for 9 months where I would obtain my certificate of audio technology . Since graduating in 2014, there's been over 200 songs, 15 EPs and 9 albums of original compositions and lyrics released on all streaming platforms . I've traveled all over the country performing anywhere I could be heard . Recorded in over 30 different recording studio spaces . Shot & edited over 50 music videos & over 100 vlogs . Wrote, performed & engineered genres from hip hop, heavy metal, alternative rock, worship, opera & orchestral. Experimented in various other realms as well . I am versatile and have a hunger to create art and help others be successful as well .
 
 ### Socials:
 
