@@ -4,7 +4,7 @@
 
 ### Coding Projects / Websites Created :
 
- - TripleTen Sprint 3 - 4 Project : Spots | https://github.com/KRMalaGrino/se_project_spots
+ - TripleTen Sprint 3 - 5 Project : Spots | https://github.com/KRMalaGrino/se_project_spots
  - TripleTen Sprint 2 Project : Triple Peaks Coffeehouse | [https://KRMalaGrino.github.io/se_project_coffeeshop/](https://github.com/KRMalaGrino/se_project_coffeeshop)
  - TripleTen Sprint 1 Project : Triple Peaks Library | https://github.com/KRMalaGrino/Triple_Peaks_Library
  - The Official Website Of KR MalaGrino | https://github.com/KRMalaGrino/The_Official_Website_Of_KR_Malagrino
