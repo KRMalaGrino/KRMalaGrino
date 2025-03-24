@@ -29,6 +29,7 @@
 
 ### Socials:
 
+- LinkedIn - in/ryanjmalagrino
 - Instagram - https://www.instagram.com/kr_malagrino/?hl=en
 - Youtube - https://www.youtube.com/@Kr_malagrino
 - Spotify - https://open.spotify.com/artist/5rNcfav2xYKUwe5GvmsTIq
