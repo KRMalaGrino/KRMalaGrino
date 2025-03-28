@@ -1,4 +1,4 @@
-## Intro:
+### Intro:
 
  Hi, my name is Ryan . A passionate frontend developer from Trenton, New Jersey . Currently a full-time student at TripleTen studying software engineering (55% complete) . Looking to collaborate with other coders on developing all kinds of projects to grow my experience as a software engineer . If you have any ideas feel free to email me at ryanmalagrino9@gmail.com .
 
