@@ -18,6 +18,7 @@
  - VSCode
  - Terminal
  - Github
+ - Codewars: 8 kyu
  - Logic Pro X
  - Melodyne
  - Adobe Premiere Pro
