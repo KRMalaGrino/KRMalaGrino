@@ -4,6 +4,7 @@
 
 ### Coding Projects / Websites Created :
 
+ - TripleTen Sprint 10 Project : -- Coming Soon -- | --
  - TripleTen Sprints 7 & 8 Project : The Todo App | https://github.com/KRMalaGrino/se_project_todo-app
  - TripleTen Sprints 3 - 6 & 9 Project : Spots | https://github.com/KRMalaGrino/se_project_spots
  - TripleTen Sprint 2 Project : Triple Peaks Coffeehouse | https://github.com/KRMalaGrino/se_project_coffeeshop
@@ -15,6 +16,7 @@
  - HTML
  - CSS
  - JavaScript
+ - React
  - VSCode
  - Terminal
  - Github
