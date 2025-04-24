@@ -17,6 +17,7 @@
  - CSS
  - JavaScript
  - React
+ - JSX
  - VSCode
  - Terminal
  - Github
