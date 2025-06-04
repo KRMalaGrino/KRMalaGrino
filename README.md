@@ -3,7 +3,7 @@
  Hi, my name is Ryan . A passionate frontend developer from Trenton, New Jersey . Currently a full-time student at TripleTen studying software engineering (70% complete) . Looking to collaborate with other coders on developing all kinds of projects to grow my experience as a software engineer . If you have any ideas feel free to email me at ryanmalagrino9@gmail.com .
 
 ### Coding Projects / Websites Created :
- 
+  
  - TripleTen Sprint 12 Project : Express | https://github.com/KRMalaGrino/se_project_express
  - TripleTen Sprints 10 & 11 Project : WTWR | https://github.com/KRMalaGrino/se_project_react
  - TripleTen Sprints 7 & 8 Project : The Todo App | https://github.com/KRMalaGrino/se_project_todo-app
