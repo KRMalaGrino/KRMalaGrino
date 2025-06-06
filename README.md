@@ -17,9 +17,11 @@
  - HTML
  - CSS
  - JavaScript
- - React
- - JSX
+ - React / JSX
+ - Node.js
  - VSCode
+ - Postman
+ - MongoDB
  - Terminal
  - Github
  - Codewars: 7 kyu
