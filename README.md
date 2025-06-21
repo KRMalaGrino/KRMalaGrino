@@ -4,8 +4,8 @@
 
 ### Coding Projects / Websites Created :
 
- - TripleTen Sprints 12 & 13 Project : WTWR : Backend | https://github.com/KRMalaGrino/se_project_express
- - TripleTen Sprints 10, 11 & 14 Project : WTWR | https://github.com/KRMalaGrino/se_project_react
+ - TripleTen Sprints 12 - 14 Project : WTWR : Backend | https://github.com/KRMalaGrino/se_project_express
+ - TripleTen Sprints 10, 11 & 14 Project : WTWR : Frontend | https://github.com/KRMalaGrino/se_project_react
  - TripleTen Sprints 7 & 8 Project : The Todo App | https://github.com/KRMalaGrino/se_project_todo-app
  - TripleTen Sprints 3 - 6 & 9 Project : Spots | https://github.com/KRMalaGrino/se_project_spots
  - TripleTen Sprint 2 Project : Triple Peaks Coffeehouse | https://github.com/KRMalaGrino/se_project_coffeeshop
