@@ -37,7 +37,8 @@
 
 - LinkedIn - [in/ryanjmalagrino](https://www.linkedin.com/in/ryanjmalagrino/)
 - Instagram - https://www.instagram.com/kr_malagrino/?hl=en
-- Youtube - https://www.youtube.com/@Kr_malagrino
 - Spotify - https://open.spotify.com/artist/5rNcfav2xYKUwe5GvmsTIq
+- TikTok - https://www.tiktok.com/@kr.malagrino?is_from_webapp=1&sender_device=pc
+- Youtube - https://www.youtube.com/@Kr_malagrino
 
 
