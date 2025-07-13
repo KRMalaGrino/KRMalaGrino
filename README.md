@@ -4,8 +4,8 @@
 
 ### Coding Projects / Websites Created :
 
- - TripleTen Final Project : Backend | https://github.com/KRMalaGrino/finalProject-BackEnd
- - TripleTen Final Project : Frontend | https://github.com/KRMalaGrino/finalProject-FrontEnd
+ - TripleTen Final Project : News Explorer : Backend | https://github.com/KRMalaGrino/finalProject-BackEnd
+ - TripleTen Final Project : News Explorer : Frontend | https://github.com/KRMalaGrino/finalProject-FrontEnd
  - TripleTen Sprints 12 - 15 Project : WTWR : Backend | https://github.com/KRMalaGrino/se_project_express 
  - TripleTen Sprints 10, 11, 14 & 15 Project : WTWR : Frontend | https://github.com/KRMalaGrino/se_project_react
  - TripleTen Sprints 7 & 8 Project : The Todo App | https://github.com/KRMalaGrino/se_project_todo-app
