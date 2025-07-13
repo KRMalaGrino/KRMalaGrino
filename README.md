@@ -5,11 +5,11 @@
 ### Coding Projects / Websites Created :
 
  - TripleTen Final Project : News Explorer :
-   Frontend | https://github.com/KRMalaGrino/finalProject-FrontEnd
-   Backend | https://github.com/KRMalaGrino/finalProject-BackEnd
+       Frontend | https://github.com/KRMalaGrino/finalProject-FrontEnd
+       Backend | https://github.com/KRMalaGrino/finalProject-BackEnd
  - TripleTen Sprints 10 - 15 Project : WTWR :
-   Frontend | https://github.com/KRMalaGrino/se_project_react
-   Backend | https://github.com/KRMalaGrino/se_project_express 
+       Frontend | https://github.com/KRMalaGrino/se_project_react
+       Backend | https://github.com/KRMalaGrino/se_project_express 
  - TripleTen Sprints 7 & 8 Project : The Todo App | https://github.com/KRMalaGrino/se_project_todo-app
  - TripleTen Sprints 3 - 6 & 9 Project : Spots | https://github.com/KRMalaGrino/se_project_spots
  - TripleTen Sprint 2 Project : Triple Peaks Coffeehouse | https://github.com/KRMalaGrino/se_project_coffeeshop
