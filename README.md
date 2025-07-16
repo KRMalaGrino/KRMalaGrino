@@ -25,7 +25,7 @@
  - MongoDB
  - Terminal
  - Github
- - Codewars: 7 kyu
+ - Codewars: 7 kyu 
  - Logic Pro X
  - Melodyne
  - Adobe Premiere Pro
