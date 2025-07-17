@@ -1,7 +1,7 @@
 ### Intro:
 
  Hi, my name is Ryan . A passionate fullstack developer from Trenton, New Jersey . Currently a full-time student at TripleTen studying software engineering (82% complete) . Looking to collaborate with other coders on developing all kinds of projects to grow my experience as a software engineer . For any inquiries please email me at ryanmalagrino9@gmail.com .
-
+ 
 ### Coding Projects / Websites Created :
 
  - TripleTen Sprint 16 Final Project : News Explorer : Frontend | https://github.com/KRMalaGrino/finalProject-FrontEnd
