@@ -4,7 +4,7 @@
  
 ### Coding Projects / Websites Created :
 
-- Roadtrip : East to West | https://github.com/KRMalaGrino/butterfly-brigade
+ - TripleTen Code Jam July 2025 : Roadtrip : East to West | https://github.com/KRMalaGrino/butterfly-brigade
  - TripleTen Sprint 16 Final Project : News Explorer : Frontend | https://github.com/KRMalaGrino/finalProject-FrontEnd
  - TripleTen Sprint 16 Final Project : News Explorer : Backend | https://github.com/KRMalaGrino/finalProject-BackEnd
  - TripleTen Sprints 10 - 15 Project : WTWR : Frontend | https://github.com/KRMalaGrino/se_project_react
