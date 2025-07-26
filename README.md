@@ -4,9 +4,9 @@
  
 ### Coding Projects / Websites Created :
 
- - TripleTen Code Jam (July 2025) : Sun Chaser | https://github.com/KRMalaGrino/butterfly-brigade
  - TripleTen Sprint 16 Final Project : News Explorer : Frontend | https://github.com/KRMalaGrino/finalProject-FrontEnd
  - TripleTen Sprint 16 Final Project : News Explorer : Backend | https://github.com/KRMalaGrino/finalProject-BackEnd
+ - TripleTen Code Jam (July 2025) : Sun Chaser | https://github.com/KRMalaGrino/butterfly-brigade
  - TripleTen Sprints 10 - 15 Project : WTWR : Frontend | https://github.com/KRMalaGrino/se_project_react
  - TripleTen Sprints 10 - 15 Project : WTWR : Backend | https://github.com/KRMalaGrino/se_project_express 
  - TripleTen Sprints 7 & 8 Project : The Todo App | https://github.com/KRMalaGrino/se_project_todo-app
